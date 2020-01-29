@@ -2,7 +2,6 @@
 //  Created by Musfera Khan
 //
 
-#include "tictactoe.hpp"
 #include <iostream>
 
 using namespace std;
